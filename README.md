@@ -24,3 +24,6 @@ A PowerShell script to automate the backup of important directories by compressi
 ```powershell
 .\backup.ps1
 ```
+![ss1](https://github.com/user-attachments/assets/06bd52e7-43e3-4c82-8ff6-5155bf96204c)
+
+![ss2](https://github.com/user-attachments/assets/40b46636-3390-4ca2-a1ee-0eba6e3e8d01)
