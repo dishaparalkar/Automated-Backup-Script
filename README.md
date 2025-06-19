@@ -16,9 +16,11 @@ A PowerShell script to automate the backup of important directories by compressi
 - Log file: `D:\Users\disha\Backups\backup_log.txt`
 
 ## 📝 Usage
-1️⃣ Open PowerShell as Administrator.
-
-2️⃣ Run:
+1. Go to :
+   ```
+   cd D:\backup_project
+   ```
+2️. Run:
 ```powershell
 .\backup.ps1
 ```
